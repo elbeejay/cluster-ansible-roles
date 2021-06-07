@@ -3,6 +3,6 @@ all:
   vars:
     ssh_admin_key: ~/id_rsa.pub
     os_passwordless_sudoers:
-    - pi
+    - ubuntu
   hosts:
     o[1:5]:
